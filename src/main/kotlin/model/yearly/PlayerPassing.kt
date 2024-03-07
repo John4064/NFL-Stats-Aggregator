@@ -21,7 +21,7 @@ data class PlayerPassing(
     private val tdCount: Int,
     private val tdPercentage: Float,
     private val interceptionCount: Int,
-    private val interceptionPercentage: Int,
+    private val interceptionPercentage: Float,
     private val firstDownCount: Int,
     private val passSuccessRate: Float,
     private val longPass: Int,
